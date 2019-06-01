@@ -1,0 +1,16 @@
+[	{
+		"_id": 1,
+		"country": "England",
+		"cities": ["London", "Birmingham", "Bath", "Manchester", "Liverpool"]
+	},
+	{
+		"_id": 2,
+		"country": "Germany",
+		"cities": ["Frankfurt", "Stuttgart", "Berlin", "Munich"]
+	},
+	{
+		"_id": 3,
+		"country": "France",
+		"cities": ["Paris", "Toulouse", "Marseille", "Nice", "Strasbourg"]
+	}
+]
